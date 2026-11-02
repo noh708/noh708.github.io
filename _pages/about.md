@@ -45,8 +45,10 @@ My interests lie in automotive engineering, with a particular focus on control s
 | ![](/assets/img/project1.jpg)<br>**F1TENTH Autonomous Racing**<br>**Participants:** Hyunseung Noh, ...<br>한두 줄 설명 |
 
 ## Competitions
+## Competitions
 
-| ![](/assets/img/comp1.jpg)<br>**대회 이름** — *결과*<br>주최 기관, 연도<br>한 줄 설명 |
+| ![3D Design for Future](/assets/img/3d_design.jpg)<br>**3D Design for Future Competition** — *Participated*<br>**Participants:** Hyunseung Noh (Team Leader), Younghyun Kim<br>주최 기관, 2026<br>Designed a modular EV platform that supports both a sedan and a truck body using Fusion 360. Responsible for the in-wheel motor (rotor/stator) and wheel hub design, generative design of the upper arm, steering arm and frame, an electrically actuated multi-pin coupling mechanism, and the sedan body form design. |
+| ![Space Hackathon](/assets/img/gnss_hunter.jpg)<br>**2026 Space Hackathon (Track 3: CubeSat Mission Idea)** — *Participated*<br>**Participants:** Hyunseung Noh (Team Leader),Daehan Choi<br>, Younghyun Kim<br>Korea AeroSpace Administration (KASA), 2026<br>Proposed *GNSS-Hunter*, a small-satellite formation mission that locates GNSS jamming sources, specialized for the Korean Peninsula and KPS with integrated monitoring of jamming causes and impacts. Responsible for satellite CAD design. |
 
 ## Honors and Awards
 
