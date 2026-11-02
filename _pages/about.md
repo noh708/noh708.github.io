@@ -46,7 +46,7 @@ My interests lie in automotive engineering, with a particular focus on control s
 
 ## Competitions
 
-| <img src="/assets/img/3d_design1.png" style="height:250px; width:auto;"> <img src="/assets/img/3d_design2.png" style="height:250px; width:auto;"> <img src="/assets/img/3d_design3.png" style="height:250px; width:auto;"><br>**3D Design for Future Competition** — *Participated*<br>**Participants:** Hyunseung Noh (Team Leader), Younghyun Kim<br>주최 기관, 2026<br>Designed a modular EV platform that supports both a sedan and a truck body using Fusion 360. Responsible for the in-wheel motor (rotor/stator) and wheel hub design, generative design of the upper arm, steering arm and frame, an electrically actuated multi-pin coupling mechanism, and the sedan body form design. |
+| <img src="/assets/img/3d_design1.png" style="height:250px; width:auto;"> <img src="/assets/img/3d_design2.png" style="height:250px; width:auto;"> <img src="/assets/img/3d_design3.png" style="height:250px; width:auto;"><br>**3D Design for Future Competition** — *Participated*<br>**Participants:** Hyunseung Noh (Team Leader), Younghyun Kim<br>Korea Productivity Center (KPC), 2026<br>Sponsored by Ministry of Trade, Industry and Resources, Autodesk<br>Designed a modular EV platform that supports both a sedan and a truck body using Fusion 360. Responsible for the in-wheel motor (rotor/stator) and wheel hub design, generative design of the upper arm, steering arm and frame, an electrically actuated multi-pin coupling mechanism, and the sedan body form design. |
 
 ## Honors and Awards
 
