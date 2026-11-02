@@ -7,7 +7,7 @@ subtitle: Undergraduate Student, Mechanical Engineering, <a href='https://www.yo
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false
+  image_circular: true
   more_info: >
     <p>Seoul, South Korea</p>
 
