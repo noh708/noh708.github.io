@@ -32,3 +32,24 @@ My interests lie in automotive engineering, with a particular focus on control s
 **Research Interests:** Control Systems, Automotive Engineering
 
 **Email:** noh708@naver.com
+## Education
+
+| Mar. 2023 - Present | [Yonsei University](https://www.yonsei.ac.kr/), Seoul, South Korea<br>B.S. in Mechanical Engineering |
+
+## Experience
+
+| 2026 - Present | 활동/동아리 이름<br>*역할*<br>한 줄 설명 |
+
+## Projects
+
+| ![](/assets/img/project1.jpg)<br>**F1TENTH Autonomous Racing**<br>**Participants:** Hyunseung Noh, ...<br>한두 줄 설명 |
+
+## Competitions
+
+| ![](/assets/img/comp1.jpg)<br>**대회 이름** — *결과*<br>주최 기관, 연도<br>한 줄 설명 |
+
+## Honors and Awards
+
+🏆 **수상 이름**
+- 등수
+- (Month, Year) From 주최 기관
